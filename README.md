@@ -1,53 +1,33 @@
-## 👋 Hi, I’m Gulzira
-
-🧪 QA Automation Engineer | 🎓 Computer Science Student  
+## 👋 Hi, I'm Gulzira
+🧪 QA Automation Engineer | 🎓 Computer Science Student at George Mason University
 
 ---
 
-### 🔭 I’m currently working on
-- **Selenium TDD automation framework** using **Java + Maven**
-- Automating UI components on **jqueryui.com**
+### 🔭 Currently Working On
+- Building a **Selenium TDD automation framework** (Java + Maven + TestNG)
+- Automating UI components on jqueryui.com
 - Writing maintainable, reusable test cases
 
-### 🌱 I’m currently learning
+### 🌱 Currently Learning
 - Advanced Selenium design patterns
 - SQL for data validation
-- CI/CD basics with Jenkins
+- CI/CD with Jenkins
 
-### 👯 I’m looking to collaborate on
-- QA automation projects
-- Test framework improvements
+### 🧪 Technical Skills
+**Automation:** Selenium WebDriver, TestNG  
+**Languages:** Java, Python (learning)  
+**Tools:** Maven, Jenkins, Git, Postman, SQL  
 
-### 💬 Ask me about
-- Selenium, Java, TestNG
-- Functional & regression testing
-- QA best practices
+### 💬 Ask Me About
+Selenium automation, Java, TestNG, functional & regression testing, QA best practices
 
----
-
-## 🧪 QA & Technical Skills
-- **Automation:** Selenium WebDriver, TestNG  
-- **Languages:** Java, Python (learning)  
-- **API & Data:** Postman, SQL  
-- **Build & CI:** Maven, Jenkins  
-- **Version Control:** Git, GitHub  
+### 👯 Open to Collaborating On
+QA automation projects and test framework improvements
 
 ---
 
-## 💻 Development Experience
-- **AI4ALL** – Built Python-based projects exploring AI/ML concepts and data analysis  
-- **CodePath** – Completed hands-on programming labs and collaborative development projects  
-
----
-
-## 🎓 Education
-**B.S. in Computer Science** — George Mason University  
-Relevant coursework:  
-Data Structures & Algorithms, Software Engineering, Discrete Math, Linear Algebra
-
----
-
-📫 **Open to QA & Automation opportunities**
+📫 **Open to QA & Automation Opportunities**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gulziraa/)
 
 <!--
 **gulziraAbudula/gulziraAbudula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
