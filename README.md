@@ -4,22 +4,24 @@
 ---
 
 ### 🔭 Currently Working On
-- Building a **Selenium TDD automation framework** (Java + Maven + TestNG)
+- Building **Selenium TDD & BDD automation frameworks** (Java, Maven, TestNG, JUnit, Cucumber)
+- Implementing **Page Object Model** with OOPS concepts
 - Automating UI components on jqueryui.com
 - Writing maintainable, reusable test cases
 
 ### 🌱 Currently Learning
-- Advanced Selenium design patterns
 - SQL for data validation
-- CI/CD with Jenkins
+- Cypress testing with TypeScript
+- API automation testing with RestAssured
+- CI/CD with Jenkins and Docker
 
 ### 🧪 Technical Skills
-**Automation:** Selenium WebDriver, TestNG  
+**Automation:** Selenium WebDriver, TestNG, JUnit, Cucumber, RestAssured  
 **Languages:** Java, Python (learning)  
-**Tools:** Maven, Jenkins, Git, Postman, SQL  
+**Tools:** Maven, Jenkins, Docker, Git, Postman, SQL  
 
 ### 💬 Ask Me About
-Selenium automation, Java, TestNG, functional & regression testing, QA best practices
+Selenium automation, TDD/BDD testing, Java, TestNG, functional & regression testing, QA best practices
 
 ### 👯 Open to Collaborating On
 QA automation projects and test framework improvements
