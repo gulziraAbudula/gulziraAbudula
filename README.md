@@ -1,47 +1,61 @@
-## 👋 Hi, I'm Gulzira
-🧪 QA Automation Engineer | 🎓 Computer Science Student at George Mason University
+# 👋 Hi, I'm Gulzira
+
+🧪 **QA Automation Engineer** | 🎓 **Computer Science Student** at George Mason University
 
 ---
 
-### 🔭 Currently Working On
-- Building **Selenium TDD & BDD automation frameworks** (Java, Maven, TestNG, JUnit, Cucumber)
-- Implementing **Page Object Model** with OOPS concepts
-- Automating UI components on jqueryui.com
-- Writing maintainable, reusable test cases
+## 🔭 Currently Working On
 
-### 🌱 Currently Learning
-- SQL for data validation
-- Cypress testing with TypeScript
+- Building **Selenium TDD & BDD automation frameworks** with Java, Maven, TestNG, JUnit, and Cucumber
+- Implementing **Page Object Model (POM)** with OOP principles
+- Automating UI components on [jQuery UI](https://jqueryui.com)
+- Writing maintainable, reusable, and scalable test cases
+
+## 🌱 Currently Learning
+
+- Advanced SQL for data validation and testing
+- Cypress testing framework with TypeScript
 - API automation testing with RestAssured
-- CI/CD with Jenkins and Docker
+- CI/CD pipelines using Jenkins and Docker
 
-### 🧪 Technical Skills
-**Automation:** Selenium WebDriver, TestNG, JUnit, Cucumber, RestAssured  
-**Languages:** Java, Python (learning)  
-**Tools:** Maven, Jenkins, Docker, Git, Postman, SQL  
+## 🧪 Technical Skills
 
-### 💬 Ask Me About
-Selenium automation, TDD/BDD testing, Java, TestNG, functional & regression testing, QA best practices
+**Automation & Testing:**  
+Selenium WebDriver • TestNG • JUnit • Cucumber • RestAssured • Page Object Model
 
-### 👯 Open to Collaborating On
-QA automation projects and test framework improvements
+**Programming Languages:**  
+Java • Python (learning) • SQL
+
+**Tools & Technologies:**  
+Maven • Jenkins • Docker • Git • GitHub • Postman • IntelliJ IDEA
+
+**Testing Methodologies:**  
+TDD • BDD • Functional Testing • Regression Testing • UI Automation • API Testing
+
+## 💬 Ask Me About
+
+- Selenium WebDriver automation
+- Test-Driven Development (TDD) and Behavior-Driven Development (BDD)
+- Java programming for QA
+- TestNG and JUnit frameworks
+- Functional and regression testing strategies
+- QA best practices and test framework design
+
+## 👯 Open to Collaborating On
+
+- QA automation projects
+- Test framework development and improvements
+- Open-source testing tools
+- Quality assurance initiatives
 
 ---
 
-📫 **Open to QA & Automation Opportunities**  
-🔗 [LinkedIn](https://www.linkedin.com/in/gulziraa/)
+## 📫 Connect With Me
 
-<!--
-**gulziraAbudula/gulziraAbudula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Open to QA & Automation Engineering Opportunities**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gulziraa/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💡 *"Quality is not an act, it is a habit." - Aristotle*
