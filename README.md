@@ -8,7 +8,7 @@
 
 - Building **Selenium TDD & BDD automation frameworks** with Java, Maven, TestNG, JUnit, and Cucumber
 - Implementing **Page Object Model (POM)** with OOP principles
-- Automating UI components on [jQuery UI](https://jqueryui.com)
+- Automating UI components on [jQuery UI](https://jqueryui.com), [E-Commerce](https://automationexercise.com/)
 - Writing maintainable, reusable, and scalable test cases
 
 ## 🌱 Currently Learning
