@@ -1,7 +1,6 @@
 # Gulzira Abdullah | Software Engineering & QA Automation
 
-Computer Science Student @ George Mason University (Expected 05/2027) | Full-Stack Developer | Quality Automation Engineer
-Fairfax, VA • 703-479-9486 • gzabudula21@gmail.com
+Computer Science Student @ George Mason University (Expected 05/2027) | Software Engineer Intern | AI Automation Engineer | Quality Automation Engineer
 
 ---
 
