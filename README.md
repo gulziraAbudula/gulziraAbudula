@@ -6,7 +6,7 @@ Computer Science Student @ George Mason University (Expected 05/2027) | Software
 
 ## About Me
 
-I'm a computer science student with hands-on experience in full-stack web development, machine learning, and QA automation. I'm passionate about building scalable applications and writing robust tests. Recently completed multiple CodePath bootcamps and professional experience at ThoughtWorks and Hexaware Technology.
+I'm a computer science student with hands-on experience in full-stack web development, machine learning, and QA automation. I'm passionate about building scalable applications and writing robust tests. Recently completed multiple CodePath bootcamps and professional experience at ThoughtWorks and Hexaware Technologies.
 
 ---
 
