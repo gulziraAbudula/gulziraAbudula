@@ -1,6 +1,6 @@
 # Gulzira Abdullah | Software Engineering & QA Automation
 
-Computer Science Student @ George Mason University (Expected 05/2027) | Software Engineer Intern | AI Automation Engineer | Quality Automation Engineer
+Computer Science Student | Software Engineer Intern | AI Automation Engineer | Quality Automation Engineer
 
 ---
 
@@ -36,7 +36,7 @@ I'm a computer science student with hands-on experience in full-stack web develo
 
 ## Recent Projects
 
-**CodePath Advanced Web Development - EZBuy Ecommerce Platform**
+**EZBuy Ecommerce Platform**
 - Built full-stack ecommerce platform with React, Node.js, Express, and PostgreSQL
 - Implemented Stripe payment processing, Firebase authentication, and student discount verification
 - Deployed on Render with focus on clean UX and scalable architecture
@@ -45,11 +45,6 @@ I'm a computer science student with hands-on experience in full-stack web develo
 - Developed ML model forecasting electricity demand and predicting power grid failures
 - Applied regression and classification techniques; achieved 92% accuracy in grid failure prediction
 - Used real-time weather APIs and scikit-learn for critical healthcare infrastructure analysis
-
-**CodePath Intermediate Web Development - Dev Talk Forum**
-- Built full-stack forum app with React, JavaScript, and RESTful APIs
-- Implemented create, edit, search, upvote, and comment features with dynamic state management
-- Practiced clean code and version control with Git/GitHub
 
 ---
 
@@ -70,18 +65,15 @@ I'm a computer science student with hands-on experience in full-stack web develo
 
 ## Education & Certifications
 
-**George Mason University** | BS Computer Science (Expected 05/2027) | GPA: 3.25
+**George Mason University** | BS Computer Science| GPA: 3.25
 Coursework: DSA • Linear Algebra • Software Engineering • Formal Methods • Low-level Programming
 
-**Northern Virginia Community College** | AS Computer Science (05/2025) | GPA: 3.870
+**Northern Virginia Community College** | AS Computer Science| GPA: 3.870
 - Dean's List Honoree • National Society of Collegiate Scholar
 
 **Professional Certifications**
 - AI4ALL IGNITE Accelerator: Responsible AI & Machine Learning (10/2025)
 - CodePath Advanced Web Development WEB103 (11/2025)
-- CodePath Intermediate Technical Interview Prep TIP102 (11/2025)
-- CodePath Web Development WEB101-WEB103 (05/2025 - 11/2025)
-- CodePath Technical Interview Prep TIP101-TIP102 (05/2025 - 11/2025)
 
 ---
 
